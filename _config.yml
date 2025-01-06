@@ -39,9 +39,9 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : # "dark" (default), "light"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : # "github-dark" (default), "github-light"
     issue_term           : # "pathname" (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Celine Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "UCSD CS Major"
+  location         : #
+  email            : sksmstmdals3@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
